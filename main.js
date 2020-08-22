@@ -1,4 +1,5 @@
 'use strict';
+//Большое спасибо, все работает !!!!
 const $btn = document.getElementById('btn-kick');
 const character = {
     name : 'Pikachu',
